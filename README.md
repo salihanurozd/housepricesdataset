@@ -1,4 +1,4 @@
-# Ridge ve LASSO Regresyon Karşılaştırması - Bitirme Tezi
+# Ridge ve LASSO Regresyon Karşılaştırması
 
 Bu repo, Saliha Nur Özdemir tarafından Yıldız Teknik Üniversitesi Matematik Mühendisliği Bölümü Çok Disiplinli Tasarım Projesi için hazırlanmıştır.
 
